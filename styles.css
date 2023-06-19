@@ -28,6 +28,7 @@
     position:fixed;
     right:-100%; 
     transition: .5s all;
+    z-index: 100;
 }
 .active{
     right:0;
